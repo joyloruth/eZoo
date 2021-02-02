@@ -7,7 +7,7 @@
 </ul>
 
 <h2>Application Overiew:</h2>
-eZoo is a JavaEE MVC application designed to manage a virtual zoo’s animals and Feeding schedules via an user interface for employees. Used the CRUD methods to create, retreive, update and delete items to and from the database. 
+eZoo is a JavaEE MVC application designed to manage a virtual zoo’s animals and Feeding schedules via an user interface for employees. Used the CRUD methods to create, retrieve, update and delete items to and from the database. 
 
 <h2>Business Requirements:</h2>
 <ul>
