@@ -25,7 +25,7 @@ eZoo is a JavaEE MVC application designed to manage a virtual zoo’s animals an
 <h2>Tools and Frameworks:</h2>
   <li>Java</li>
   <li>Spring Tools for Eclipse IDE </li>
-  <li>Postgres</li>
+  <li>PostgreSQL</li>
   <li>WildFly Server (JBoss)</li>
   <li>JSP</li>
   <li>Java Database Connectivity (JDBC)</li>
