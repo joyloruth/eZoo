@@ -1,4 +1,4 @@
-<b><h1>eZoo Management System Application</h1></b>
+<b><h1>eZoo Animal Management System Application</h1></b>
 <b>Contents</b>
 <ul>
   <li>Application Overiew</li>
